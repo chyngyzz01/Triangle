@@ -66,6 +66,15 @@ public class Main {
 //        int[] numbers = {4, 4,4};
 //        System.out.println(isSameNums(numbers));
 
+
+
+
+
+
+
+
+
+// Home task with class and gitHub
         Scanner scanner = new Scanner(System.in);
         Triangle triangle = new Triangle();
         System.out.print("Enter the first number: ");
@@ -78,6 +87,26 @@ public class Main {
         System.out.println(triangle.a + "см + " + triangle.b + "см + " + triangle.c + "см" + " = " + triangle.area());
 
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     //int[] numbers = {1, 2, 3, 4, 5, 5, 5, 6, 7};
 //    public static boolean isSameNums(int[] nums) {
